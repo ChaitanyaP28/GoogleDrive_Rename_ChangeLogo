@@ -10,7 +10,7 @@
 
 ## Change Logo of a Drive
 ### Procedure
-1. Open Regedit
+1. Open Regedit using cmd or use windows search and search for "Regedit"
 2. Go to "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer"
 3. Create a key called "DriveIcons" if it doesnt exist
 4. Open "DriveIcons", so now the path is "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\DriveIcons"
